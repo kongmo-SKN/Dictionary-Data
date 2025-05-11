@@ -1,0 +1,7 @@
+# Confidential
+lee/Visualization/kopis_key.py
+.env
+
+# Cache Data
+__pycache__/
+*.pyc
